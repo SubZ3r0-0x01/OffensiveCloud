@@ -1,3 +1,9 @@
+
+## Version 1.0.1 (2026-07-14)
+
+### Added
+- {
+
 # OffensiveCloud
 
 Offensive security tips and penetration testing TTP for Cloud based environments : 
