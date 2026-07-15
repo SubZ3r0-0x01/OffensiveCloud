@@ -4,6 +4,12 @@
 
 
 
+
+## Version 1.0.7 (2026-07-15)
+
+### Added
+- Automated Cloud Privilege Escalation and Attack Chain Exploitation
+
 ## Version 1.0.6 (2026-07-15)
 
 ### Added
