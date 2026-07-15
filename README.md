@@ -12,6 +12,12 @@ Cloud Security Testing Framework - Automated VAPT Tools
 
 
 
+
+## Version 1.0.25 (2026-07-16)
+
+### Added
+- Automated Infrastructure as Code (IaC) Security Scanning
+
 ## Version 1.0.24 (2026-07-16)
 
 ### Added
