@@ -6,6 +6,12 @@ Cloud Security Testing Framework - Automated VAPT Tools
 
 
 
+
+## Version 1.0.19 (2026-07-15)
+
+### Added
+- Automated Cloud Workload Identity Misconfiguration Detection and Exploitation
+
 ## Version 1.0.18 (2026-07-15)
 
 ### Added
