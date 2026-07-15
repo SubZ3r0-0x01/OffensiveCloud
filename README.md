@@ -2,6 +2,12 @@
 
 
 
+
+## Version 1.0.5 (2026-07-15)
+
+### Added
+- Automated Cloud Infrastructure as Code Security Scanning
+
 ## Version 1.0.4 (2026-07-15)
 
 ### Added
