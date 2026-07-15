@@ -1,5 +1,11 @@
 
 
+
+## Version 1.0.3 (2026-07-14)
+
+### Added
+- Automated Cloud IAM Privilege Escalation Discovery
+
 ## Version 1.0.2 (2026-07-14)
 
 ### Added
