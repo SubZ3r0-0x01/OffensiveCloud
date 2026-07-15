@@ -1,6 +1,12 @@
 
 
 
+
+## Version 1.0.4 (2026-07-15)
+
+### Added
+- Multi-Cloud Security Misconfiguration Scanner
+
 ## Version 1.0.3 (2026-07-14)
 
 ### Added
