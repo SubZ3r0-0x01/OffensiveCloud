@@ -4,6 +4,12 @@ Cloud Security Testing Framework - Automated VAPT Tools
 
 
 
+
+## Version 1.0.17 (2026-07-15)
+
+### Added
+- Automated Multi-Cloud Resource Policy Misconfiguration Scanner and Exploitation
+
 ## Version 1.0.16 (2026-07-15)
 
 ### Added
