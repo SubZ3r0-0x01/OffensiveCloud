@@ -2,6 +2,12 @@
 
 Cloud Security Testing Framework - Automated VAPT Tools
 
+
+## Version 1.0.15 (2026-07-15)
+
+### Added
+- Automated Cloud Privilege Escalation & Lateral Movement Playbook
+
 ## Modules
 - IAM Privilege Escalation Discovery
 - Multi-Cloud Misconfiguration Scanner
