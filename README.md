@@ -7,6 +7,12 @@ Cloud Security Testing Framework - Automated VAPT Tools
 
 
 
+
+## Version 1.0.20 (2026-07-15)
+
+### Added
+- Automated Kubernetes RBAC and Pod Security Auditing and Exploitation
+
 ## Version 1.0.19 (2026-07-15)
 
 ### Added
