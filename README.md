@@ -10,6 +10,12 @@
 
 
 
+
+## Version 1.0.13 (2026-07-15)
+
+### Added
+- Automated Multi-Cloud Container Security Audit (Kubernetes Posture Scanner)
+
 ## Version 1.0.12 (2026-07-15)
 
 ### Added
