@@ -1,93 +1,25 @@
+# OffensiveCloud v1.0.14
 
+Cloud Security Testing Framework - Automated VAPT Tools
 
+## Modules
+- IAM Privilege Escalation Discovery
+- Multi-Cloud Misconfiguration Scanner
+- Infrastructure as Code Security Scanning
+- Container Security Analysis
+- Cloud Penetration Testing Toolkit
+- CIS Benchmark Compliance Scanner
 
+## Supported Cloud Providers
+- AWS (Amazon Web Services)
+- Azure (Microsoft Azure)
+- GCP (Google Cloud Platform)
 
+## Latest Updates
+- v1.0.14: Cloud penetration testing toolkit
+- v1.0.13: CIS Benchmark compliance scanner
+- v1.0.12: Attack path analysis
+- v1.0.11: Multi-cloud scanner
 
-
-
-
-
-
-
-
-
-## Version 1.0.13 (2026-07-15)
-
-### Added
-- Automated Multi-Cloud Container Security Audit (Kubernetes Posture Scanner)
-
-## Version 1.0.12 (2026-07-15)
-
-### Added
-- {
-
-## Version 1.0.11 (2026-07-15)
-
-### Added
-- Automated CIS Benchmark Compliance Scanner for Multi-Cloud
-
-## Version 1.0.10 (2026-07-15)
-
-### Added
-- {
-
-## Version 1.0.9 (2026-07-15)
-
-### Added
-- {
-
-## Version 1.0.8 (2026-07-15)
-
-### Added
-- Cloud Penetration Test Attack Path Analysis and Visualization
-
-## Version 1.0.7 (2026-07-15)
-
-### Added
-- Automated Cloud Privilege Escalation and Attack Chain Exploitation
-
-## Version 1.0.6 (2026-07-15)
-
-### Added
-- {
-
-## Version 1.0.5 (2026-07-15)
-
-### Added
-- Automated Cloud Infrastructure as Code Security Scanning
-
-## Version 1.0.4 (2026-07-15)
-
-### Added
-- Multi-Cloud Security Misconfiguration Scanner
-
-## Version 1.0.3 (2026-07-14)
-
-### Added
-- Automated Cloud IAM Privilege Escalation Discovery
-
-## Version 1.0.2 (2026-07-14)
-
-### Added
-- Unified Cloud Security Testing CLI
-
-## Version 1.0.1 (2026-07-14)
-
-### Added
-- {
-
-# OffensiveCloud
-
-Offensive security tips and penetration testing TTP for Cloud based environments : 
-
-**&rarr;** Feel free to send Pull Request to participate and share with the community :)
-
-- AWS
-- Azure
-- GCP
-# v1.0.3 Update
-
-## Automated VAPT Framework
-- Added cloud security testing modules
-- Automated vulnerability assessment tools
-- Multi-cloud support (AWS/Azure/GCP)
+---
+Auto-updated by development automation
