@@ -1,4 +1,10 @@
 
+
+## Version 1.0.2 (2026-07-14)
+
+### Added
+- Unified Cloud Security Testing CLI
+
 ## Version 1.0.1 (2026-07-14)
 
 ### Added
