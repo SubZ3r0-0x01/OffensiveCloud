@@ -1,4 +1,4 @@
-# OffensiveCloud v1.0.14
+# OffensiveCloud v1.0.15
 
 Cloud Security Testing Framework - Automated VAPT Tools
 
@@ -22,7 +22,7 @@ Cloud Security Testing Framework - Automated VAPT Tools
 - GCP (Google Cloud Platform)
 
 ## Latest Updates
-- v1.0.14: Cloud penetration testing toolkit
+- v1.0.15: Cloud penetration testing toolkit
 - v1.0.13: CIS Benchmark compliance scanner
 - v1.0.12: Attack path analysis
 - v1.0.11: Multi-cloud scanner
