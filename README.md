@@ -9,6 +9,12 @@ Cloud Security Testing Framework - Automated VAPT Tools
 
 
 
+
+## Version 1.0.22 (2026-07-16)
+
+### Added
+- Automated Cloud IAM Privilege Escalation Detection and Exploitation
+
 ## Version 1.0.21 (2026-07-15)
 
 ### Added
