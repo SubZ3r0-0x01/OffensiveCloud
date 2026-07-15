@@ -5,6 +5,12 @@
 
 
 
+
+## Version 1.0.8 (2026-07-15)
+
+### Added
+- Cloud Penetration Test Attack Path Analysis and Visualization
+
 ## Version 1.0.7 (2026-07-15)
 
 ### Added
