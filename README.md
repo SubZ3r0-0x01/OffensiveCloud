@@ -8,6 +8,12 @@
 
 
 
+
+## Version 1.0.11 (2026-07-15)
+
+### Added
+- Automated CIS Benchmark Compliance Scanner for Multi-Cloud
+
 ## Version 1.0.10 (2026-07-15)
 
 ### Added
