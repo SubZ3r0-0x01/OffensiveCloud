@@ -3,6 +3,12 @@
 Cloud Security Testing Framework - Automated VAPT Tools
 
 
+
+## Version 1.0.16 (2026-07-15)
+
+### Added
+- Automated Cloud IAM Trust Policy Exploitation
+
 ## Version 1.0.15 (2026-07-15)
 
 ### Added
