@@ -19,3 +19,9 @@ Offensive security tips and penetration testing TTP for Cloud based environments
 - AWS
 - Azure
 - GCP
+# v1.0.3 Update
+
+## Automated VAPT Framework
+- Added cloud security testing modules
+- Automated vulnerability assessment tools
+- Multi-cloud support (AWS/Azure/GCP)
