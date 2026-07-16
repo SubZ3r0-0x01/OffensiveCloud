@@ -22,6 +22,12 @@ Cloud Security Testing Framework - Automated VAPT Tools
 
 
 
+
+## Version 1.0.35 (2026-07-16)
+
+### Added
+- Automated Cloud Privilege Escalation Path Discovery
+
 ## Version 1.0.34 (2026-07-16)
 
 ### Added
