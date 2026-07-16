@@ -16,6 +16,12 @@ Cloud Security Testing Framework - Automated VAPT Tools
 
 
 
+
+## Version 1.0.29 (2026-07-16)
+
+### Added
+- {
+
 ## Version 1.0.28 (2026-07-16)
 
 ### Added
