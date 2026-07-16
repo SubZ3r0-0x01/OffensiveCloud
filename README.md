@@ -21,6 +21,12 @@ Cloud Security Testing Framework - Automated VAPT Tools
 
 
 
+
+## Version 1.0.34 (2026-07-16)
+
+### Added
+- Multi-Cloud CIS Compliance Scanning Engine
+
 ## Version 1.0.33 (2026-07-16)
 
 ### Added
